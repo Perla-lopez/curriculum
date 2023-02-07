@@ -5,4 +5,5 @@ Alumna: Perla Beatriz Lopez Armenta
 Margarita Maza de Juárez
 
 ## Primaria
-Escuela Secudaria Pablo E. Macías Valenzuela
+Escuela Primaria Prof. Jesús Ramirez
+
