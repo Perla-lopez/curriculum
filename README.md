@@ -13,3 +13,5 @@ Pablo E. Macías Valenzuela
 ## Bachillerato
 UAS
 
+## Licenciatura
+UAdeO Guasave
