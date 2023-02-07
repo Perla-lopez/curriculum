@@ -7,3 +7,6 @@ Margarita Maza de Juárez
 ## Primaria
 Escuela Primaria Prof. Jesús Ramirez
 
+## Secundaria
+Pablo E. Macías Valenzuela
+
