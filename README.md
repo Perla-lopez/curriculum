@@ -10,3 +10,6 @@ Escuela Primaria Prof. Jesús Ramirez
 ## Secundaria
 Pablo E. Macías Valenzuela
 
+## Bachillerato
+UAS
+
